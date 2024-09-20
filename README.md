@@ -12,7 +12,7 @@ This repository contains an **elegantly designed, fully responsive full-length h
 
 ## Demo
 
-You can view the live demo of this homepage at [Live-demo-link].
+You can view the live demo of this homepage at [Live-demo-link](https://gpt-ui-ux.netlify.app/).
 
 ## Technologies Used
 
